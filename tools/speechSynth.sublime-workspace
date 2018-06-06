@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"SYSTEM_64",
+				"SYSTEM_C64_SID_8580"
+			],
+			[
+				"number",
+				"number_of_frames"
+			],
+			[
+				"TRUE",
+				"TRUE"
+			],
+			[
+				"echo",
+				"echo_play_bgm"
+			],
+			[
+				"MAX",
+				"MAX_NUM_NPC"
+			],
+			[
+				"pri",
+				"priorityCutoff"
+			],
+			[
+				"init",
+				"initialPosition"
+			],
+			[
+				"str",
+				"startY"
+			],
+			[
+				"MAX_",
+				"MAX_NUM_DOORS"
+			],
+			[
+				"SPR_set",
+				"SPR_setAnim"
+			],
+			[
+				"next",
+				"nextLevel"
+			],
+			[
+				"SYS",
+				"SYS_enableInts"
+			],
+			[
+				"SYS_",
+				"SYS_disableInts"
+			],
+			[
+				"SPR_",
+				"SPR_setAnim"
+			],
+			[
+				"num",
+				"num_frames"
+			],
+			[
+				"spri",
+				"sprites"
+			],
+			[
+				"sprin",
+				"sprintCounter"
+			],
+			[
+				"plae",
+				"playerPosition"
+			],
+			[
+				"spr",
+				"sprites"
+			],
+			[
+				"pr",
+				"protoXvel"
+			],
+			[
+				"level_",
+				"level_height"
+			],
+			[
+				"level",
+				"level01_data"
+			],
+			[
+				"patt",
+				"patternMatrix"
+			],
+			[
+				"a",
+				"array_of_8_u16"
+			],
+			[
+				"spin",
+				"spindashReleaseSound"
+			],
+			[
+				"LEVE",
+				"LEVEL_SIZE_Y"
+			],
+			[
+				"player",
+				"playerPosition"
+			],
+			[
+				"resolve",
+				"resolveLeftWall"
+			],
+			[
+				"colli",
+				"collisionNo"
+			],
+			[
+				"check",
+				"check_y"
+			],
+			[
+				"coll",
+				"collisionNo"
+			],
+			[
+				"col",
+				"collisionNo"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"can",
+				"canMoveRight"
+			],
+			[
+				"play",
+				"playerPosition"
+			],
+			[
+				"in",
+				"instrument3"
+			],
+			[
+				"cam",
+				"camposy"
+			],
+			[
+				"camp",
+				"camposx"
+			],
+			[
+				"c",
+				"camposy"
+			],
+			[
+				"m",
+				"m_matrix"
+			],
+			[
+				"ma",
+				"matrix_ptr"
+			],
+			[
+				"le",
+				"LEVEL_HEIGHT"
+			],
+			[
+				"leve",
+				"LEVEL_WIDTH"
+			],
+			[
+				"hand",
+				"handleAnimation"
+			],
+			[
+				"han",
+				"handlePhysics"
+			],
+			[
+				"cha",
+				"changed"
+			],
+			[
+				"y",
+				"yaxis"
+			],
+			[
+				"yax",
+				"yaxisOld"
+			],
+			[
+				"xax",
+				"xaxisOld"
+			],
+			[
+				"SPR_se",
+				"SPR_setHFlip"
+			],
+			[
+				"AU",
+				"AUDV0"
+			],
+			[
+				"file",
+				"file_base_name"
+			],
+			[
+				"bass",
+				"bass_major"
+			],
+			[
+				"sq",
+				"square_inst"
+			],
+			[
+				"rand",
+				"random_list"
+			],
+			[
+				"main",
+				"main_melody"
+			],
+			[
+				"main_",
+				"main_melody_note_len"
+			],
+			[
+				"t",
+				"t"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Build",
+					""
+				],
+				[
+					"Build",
+					"Clean"
+				],
+				[
+					"Build",
+					"Debug"
+				]
+			],
+			[
+				"Build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"last_filter": "brow",
+		"selected_items":
+		[
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"plugin",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 220.0,
+		"history":
+		[
+			"run ",
+			"build",
+			"dir()",
+			"help",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/aaron/programming/speechSynth/src"
+	],
+	"file_history":
+	[
+		"/home/aaron/programming/speechSynth/main.c",
+		"/home/aaron/programming/Metronome/browserconfig.xml",
+		"/home/aaron/programming/Metronome/site.webmanifest",
+		"/home/aaron/programming/Metronome/index.html",
+		"/home/aaron/programming/Metronome/LICENSE.txt",
+		"/home/aaron/programming/Metronome/robots.txt",
+		"/home/aaron/programming/Metronome/js/main.js",
+		"/home/aaron/programming/Metronome/css/main.css",
+		"/home/aaron/Downloads/fruitfly/orig.fa",
+		"/home/aaron/Downloads/fruitfly/mod.fa",
+		"/home/aaron/Downloads/fruitfly/2bit2FATSA.py",
+		"/home/aaron/programming/test.c",
+		"/home/aaron/Downloads/BotB 27299 Minerscale - Ahh i linked my foot (1).c",
+		"/home/aaron/Documents/password.txt",
+		"/home/aaron/Downloads/output.txt",
+		"/home/aaron/Downloads/paper.txt",
+		"/media/aaron/VOLUME_1/VIDEO_TS/VIDEO_TS.BUP",
+		"/media/aaron/VOLUME_1/VIDEO_TS/VIDEO_TS.IFO",
+		"/home/aaron/Downloads/fruitfly/eboVir3.2bit",
+		"/home/aaron/Documents/mount.txt",
+		"/home/aaron/Downloads/fruitfly/Drosophila_melanogaster.BDGP6.dna_sm.chromosome.2L.fa",
+		"/home/aaron/programming/esfTest/src/main.c",
+		"/home/aaron/.cache/.fr-e3s87K/Drosophila_melanogaster.BDGP6.dna_sm.chromosome.2L.fa",
+		"/home/aaron/programming/test.s",
+		"/home/aaron/.cache/.fr-ajE8Je/tips.txt1",
+		"/home/aaron/programming/esfTest/res/test.esf",
+		"/home/aaron/programming/esfTest/res/test.dmf",
+		"/home/aaron/programming/dmf2esf-2.0/src/main.c",
+		"/home/aaron/programming/esfTest/src/boot/sega.s",
+		"/home/aaron/programming/esfTest/src/boot/rom_head.c",
+		"/home/aaron/programming/esfTest/src/echo.c",
+		"/home/aaron/programming/esfTest/res/sound.res",
+		"/home/aaron/programming/esfTest/res/test_inst-01.eef",
+		"/home/aaron/programming/genesis-rpg/src/boot/rom_head.c",
+		"/home/aaron/programming/dmf2esf-2.0/src/esfConverter.c",
+		"/home/aaron/programming/genesis-rpg/res/sound/Old_Emporium/instr_00.eif",
+		"/home/aaron/programming/esfTest/Echo/doc/eif.txt",
+		"/home/aaron/programming/esfTest/res/what.esf",
+		"/home/aaron/programming/esfTest/res/instr_00.eif",
+		"/home/aaron/programming/esfTest/Echo/doc/eef.txt",
+		"/home/aaron/programming/esfTest/res/whaaa.esf",
+		"/home/aaron/programming/esfTest/res/inst_1.eef",
+		"/home/aaron/programming/esfTest/res/sound.h",
+		"/home/aaron/programming/esfTest/Echo/doc/api-c.txt",
+		"/home/aaron/programming/esfTest/esfTest.sublime-project",
+		"/home/aaron/programming/dmf2esf-2.0/inc/esfConverter.h",
+		"/home/aaron/programming/test1.esf",
+		"/home/aaron/programming/dmf2esf-2.0/Makefile",
+		"/home/aaron/programming/what.esf",
+		"/home/aaron/programming/ÿ",
+		"/home/aaron/programming/test.esf",
+		"/home/aaron/programming/shit.esf",
+		"/home/aaron/programming/ðŸ¤¡",
+		"/home/aaron/programming/NotWorkingOn/Archive/dmfmvc/Makefile",
+		"/home/aaron/programming/dmf2esf-2.0/out/bit.esf",
+		"/home/aaron/programming/test.asm",
+		"/home/aaron/programming/genesis-rpg/res/sound/Old_Emporium/Old_Emporium.esf",
+		"/home/aaron/programming/dmf2esf-2.0/dmf2esf-2.0.sublime-project",
+		"/home/aaron/programming/dmf2esf-2.0/libdmf/Makefile",
+		"/home/aaron/programming/NotWorkingOn/Archive/dmfmvc/tools/dmfmvc.sublime-project",
+		"/home/aaron/programming/dmfmvc/dmf-parser/Makefile",
+		"/home/aaron/programming/portfolio/style.css",
+		"/home/aaron/programming/portfolio/index.html",
+		"/home/aaron/programming/MIF85Tracker.v1.0.1408/configure.ac",
+		"/home/aaron/programming/dmfmvc/dmf-parser/src/dmfParser.c",
+		"/home/aaron/programming/MIF85Tracker.v1.0.1408/README",
+		"/home/aaron/programming/fuck.txt",
+		"/home/aaron/programming/filefn.patch",
+		"/home/aaron/programming/wxWidgets-2.8.12/include/wx/filefn.h",
+		"/home/aaron/Downloads/filefn.wx2.8.12.diff",
+		"/home/aaron/programming/fucc.txt",
+		"/home/aaron/programming/dmfmvc/Makefile",
+		"/home/aaron/programming/dmfmvc/dmf-parser/src/test.c",
+		"/home/aaron/programming/dmfmvc/dmf-parser/inc/libdmf.h",
+		"/home/aaron/programming/dmfmvc/src/main.c",
+		"/home/aaron/Downloads/dmfmvc_test_output.txt",
+		"/home/aaron/Downloads/datListSonRed.txt",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/globals.html",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/globals_func.html",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/libdmf_8h.html",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/libdmf_8h.js",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/libdmf_8h_source.html",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/search/all_c.js",
+		"/home/aaron/programming/dmfmvc/dmf-parser/docs/search/functions_3.js",
+		"/home/aaron/programming/dmfmvc/inc/libdmf.h",
+		"/home/aaron/programming/dmfmvc/out/dmfmvc",
+		"/home/aaron/programming/dmfmvc/dmf-parser/Doxyfile",
+		"/home/aaron/programming/dmfmvc/dmf-parser/src/miniz.c",
+		"/home/aaron/programming/dmf-parser/inc/dmf-parser.h",
+		"/home/aaron/programming/dmf-parser/Makefile",
+		"/home/aaron/programming/dmf-parser/README.md",
+		"/home/aaron/programming/dmf-parser/Doxyfile",
+		"/home/aaron/programming/dmf-parser/src/test.c",
+		"/home/aaron/programming/dmf-parser/inc/miniz.h",
+		"/home/aaron/programming/dmfmvc/inc/dmf-parser.h",
+		"/home/aaron/programming/dmfmvc/inc/optparse.h",
+		"/home/aaron/programming/dmf-parser/inc/test.h",
+		"/home/aaron/programming/dmf-parser/src/dmfParser.c",
+		"/home/aaron/programming/dmf-parser/inc/dmfParser.h",
+		"/home/aaron/programming/dmfmvc/tools/dmfmvc.sublime-project",
+		"/home/aaron/programming/dmfmvc/inc/miniz.h",
+		"/home/aaron/programming/dmfmvc/src/dmfParser.c",
+		"/home/aaron/programming/dmfmvc/inc/dmfParser.h",
+		"/home/aaron/programming/dmfmvc/src/test.c",
+		"/home/aaron/programming/dmfmvc/inc/test.h",
+		"/home/aaron/Downloads/html.txt",
+		"/home/aaron/programming/dmfmvc/dick.txt",
+		"/home/aaron/Downloads/BotB 27419 funute - tiny rave.js",
+		"/home/aaron/programming/discord_emoji.py",
+		"/home/aaron/programming/dmfmvc/out/dump.txt",
+		"/home/aaron/programming/dmfmvc/out/test.txt",
+		"/home/aaron/programming/botbapi/botbGraph.py",
+		"/home/aaron/programming/fucc.py",
+		"/home/aaron/programming/dmfmvc/.git/FETCH_HEAD",
+		"/home/aaron/programming/dmfmvc/.git/HEAD",
+		"/home/aaron/programming/dmfmvc/.git/refs/heads/master",
+		"/home/aaron/programming/NotWorkingOn/Archive/bytebeat-nu/minified.c",
+		"/home/aaron/programming/NotWorkingOn/Archive/bytebeat-nu/bytebeat.c",
+		"/home/aaron/Desktop/cron.example.output.txt.exe.txt.bin.txt",
+		"/home/aaron/programming/dmfmvc/LICENCE",
+		"/home/aaron/programming/find-replace.txt",
+		"/home/aaron/programming/dmfmvc/out/fuck.txt",
+		"/home/aaron/programming/dmfVolumeChanger/dmfVolumeChanger.sublime-project",
+		"/home/aaron/software/deflemask/ERROR.log",
+		"/home/aaron/programming/genesis-rpg/tools/genesis-rpg.sublime-project",
+		"/home/aaron/programming/test/test.sublime-project",
+		"/home/aaron/programming/test/main.c",
+		"/home/aaron/programming/genesis-rpg/src/engine/functions.c"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 328.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 112.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build",
+	"project": "speechSynth.sublime-project",
+	"replace":
+	{
+		"height": 71.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/programming/esfTest/esfTest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

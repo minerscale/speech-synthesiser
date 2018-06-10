@@ -1,15 +1,15 @@
 TARGET = out/speechSynth
 CC = gcc
 MAKE = make
-CFLAGS = -Wall -Iinc -flto
+CFLAGS = -Wall -Iinc -flto -lm
 CHMOD = chmod
 
 PREBUILD_DIRS = out/ out/src
 
-.PHONY: default all clean
+.PHONY: default all run clean
 
 default: $(TARGET)
-all: default
+all: default run
 
 HEADERS = $(wildcard *.h)
 HEADERS += $(wildcard inc/*.h)
@@ -30,6 +30,9 @@ out/%.o: %.c $(HEADERS) | $(PREBUILD_DIRS)
 $(TARGET): $(OBJECTS)
 	$(CC) $^ $(CFLAGS) -o $@
 	$(CHMOD) +x $@
+
+run: $(TARGET)
+	$(TARGET)
 
 clean:
 	-rm -f out/*.o

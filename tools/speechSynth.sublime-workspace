@@ -243,8 +243,35 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/aaron/programming/speechSynth/Makefile",
+			"settings":
+			{
+				"buffer_size": 661,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/speechSynth/src/synthesiser.c",
+			"settings":
+			{
+				"buffer_size": 774,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/aaron/programming/speechSynth/src/main.c",
+			"settings":
+			{
+				"buffer_size": 1403,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
-	"build_system": "",
+	"build_system": "Packages/Makefile/Make.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -264,6 +291,22 @@
 			],
 			[
 				"Build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
 				""
 			]
 		]
@@ -318,10 +361,25 @@
 	},
 	"expanded_folders":
 	[
-		"/home/aaron/programming/speechSynth/src"
+		"/home/aaron/programming/speechSynth",
+		"/home/aaron/programming/speechSynth/inc",
+		"/home/aaron/programming/speechSynth/out",
+		"/home/aaron/programming/speechSynth/src",
+		"/home/aaron/programming/speechSynth/tools"
 	],
 	"file_history":
 	[
+		"/home/aaron/.cache/.fr-Xitv26/debian-binary",
+		"/home/aaron/programming/speechSynth/src/main.c",
+		"/home/aaron/programming/bytebeat4/bytebeat.c",
+		"/home/aaron/programming/speechSynth/inc/synthesiser.h",
+		"/home/aaron/programming/speechSynth/inc/constants.h",
+		"/home/aaron/programming/speechSynth/output.wav",
+		"/home/aaron/Downloads/BotB 27299 Minerscale - Ahh i linked my foot (2).c",
+		"/home/aaron/programming/speechSynth/Makefile",
+		"/home/aaron/programming/dmf2esf-2.0/Makefile",
+		"/home/aaron/programming/genesis-rpg/tools/genesis-rpg.sublime-project",
+		"/home/aaron/programming/speechSynth/tools/speechSynth.sublime-project",
 		"/home/aaron/programming/speechSynth/main.c",
 		"/home/aaron/programming/Metronome/browserconfig.xml",
 		"/home/aaron/programming/Metronome/site.webmanifest",
@@ -369,7 +427,6 @@
 		"/home/aaron/programming/esfTest/esfTest.sublime-project",
 		"/home/aaron/programming/dmf2esf-2.0/inc/esfConverter.h",
 		"/home/aaron/programming/test1.esf",
-		"/home/aaron/programming/dmf2esf-2.0/Makefile",
 		"/home/aaron/programming/what.esf",
 		"/home/aaron/programming/ÿ",
 		"/home/aaron/programming/test.esf",
@@ -439,21 +496,11 @@
 		"/home/aaron/programming/dmfmvc/.git/HEAD",
 		"/home/aaron/programming/dmfmvc/.git/refs/heads/master",
 		"/home/aaron/programming/NotWorkingOn/Archive/bytebeat-nu/minified.c",
-		"/home/aaron/programming/NotWorkingOn/Archive/bytebeat-nu/bytebeat.c",
-		"/home/aaron/Desktop/cron.example.output.txt.exe.txt.bin.txt",
-		"/home/aaron/programming/dmfmvc/LICENCE",
-		"/home/aaron/programming/find-replace.txt",
-		"/home/aaron/programming/dmfmvc/out/fuck.txt",
-		"/home/aaron/programming/dmfVolumeChanger/dmfVolumeChanger.sublime-project",
-		"/home/aaron/software/deflemask/ERROR.log",
-		"/home/aaron/programming/genesis-rpg/tools/genesis-rpg.sublime-project",
-		"/home/aaron/programming/test/test.sublime-project",
-		"/home/aaron/programming/test/main.c",
-		"/home/aaron/programming/genesis-rpg/src/engine/functions.c"
+		"/home/aaron/programming/NotWorkingOn/Archive/bytebeat-nu/bytebeat.c"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -467,6 +514,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -474,6 +522,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			""
 		],
 		"reverse": false,
 		"show_context": true,
@@ -484,8 +533,93 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/aaron/programming/speechSynth/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/aaron/programming/speechSynth/src/synthesiser.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								774,
+								774
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/aaron/programming/speechSynth/src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								729,
+								729
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -522,17 +656,17 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 136.0
+		"height": 138.0
 	},
 	"output.find_results":
 	{
 		"height": 0.0
 	},
-	"pinned_build_system": "Build",
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
 	"project": "speechSynth.sublime-project",
 	"replace":
 	{
-		"height": 71.0
+		"height": 46.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -552,7 +686,7 @@
 		[
 			[
 				"",
-				"~/programming/esfTest/esfTest.sublime-project"
+				"~/programming/bytebeat4/bytebeat.sublime-project"
 			]
 		],
 		"width": 380.0
